@@ -1,0 +1,23 @@
+{
+  "name": "charming-image-holder",
+  "version": "1.0.0",
+  "description": "A placeholder image service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charming2015/charming-image-holder.git"
+  },
+  "keywords": [],
+  "author": "陈汉明",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charming2015/charming-image-holder/issues"
+  },
+  "homepage": "https://github.com/Charming2015/charming-image-holder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
