@@ -1,7 +1,7 @@
 # charming-image-holder
 > A placeholder image service
 
-### 欢迎使用 charming-img-holder，[官网地址](`http://img-holder.charming.run)
+### 欢迎使用 charming-img-holder，[官网地址](http://img-holder.charming.run)
 **使用方法如下:** 
 
 1. 传入宽高：`http://img-holder.charming.run/200x100`
