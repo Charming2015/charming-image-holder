@@ -1,5 +1,5 @@
 # charming-image-holder
-> A placeholder image service
+> A placeholder image service. 一个图片占位服务
 
 ### 欢迎使用 charming-img-holder，[官网地址](http://img-holder.charming.run)
 **使用方法如下:** 
